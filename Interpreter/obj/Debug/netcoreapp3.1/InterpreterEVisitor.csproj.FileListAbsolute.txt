@@ -1,0 +1,15 @@
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.csprojAssemblyReference.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\Interpreter.Form1.resources
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.csproj.GenerateResource.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.AssemblyInfoInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.AssemblyInfo.cs
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.csproj.CoreCompileInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.exe
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.deps.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.runtimeconfig.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.runtimeconfig.dev.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\bin\Debug\netcoreapp3.1\InterpreterEVisitor.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Interpreter\obj\Debug\netcoreapp3.1\InterpreterEVisitor.genruntimeconfig.cache

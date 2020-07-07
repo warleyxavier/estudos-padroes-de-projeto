@@ -1,0 +1,14 @@
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.Form1.resources
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.GenerateResource.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache

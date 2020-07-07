@@ -1,0 +1,15 @@
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.Form1.resources
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.GenerateResource.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache

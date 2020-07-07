@@ -1,0 +1,15 @@
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.Form1.resources
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.GenerateResource.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache

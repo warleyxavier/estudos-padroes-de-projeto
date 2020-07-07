@@ -1,0 +1,14 @@
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.exe
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\bin\Debug\netcoreapp3.1\Command.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.Form1.resources
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.csproj.GenerateResource.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.dll
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.pdb
+C:\Users\warle\OneDrive\Documentos\Ambiente .NET\Projetos\Strategy\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
